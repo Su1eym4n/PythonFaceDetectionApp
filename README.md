@@ -1,6 +1,6 @@
-#Face Recognition App
+# Face Recognition App
 
-##Set up the environment
+## Set up the environment
 Run following commands to 
 - `python3 -m venv venv` create virtual environemnt
 - `source venv/bin/activate` activate virtual environment
