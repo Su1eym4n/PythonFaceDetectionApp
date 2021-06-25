@@ -6,7 +6,7 @@ Run following commands to
 - `source venv/bin/activate` activate virtual environment
 - `pip3 install opencv-python` install opencv
 - `pip3 install face_recognition` install face recognition librari
-- `pip3 install numpy install numpy
+- `pip3 install numpy' install numpy
 - `source venv/bin/activate` activate venv
 
 ## Run the Code
